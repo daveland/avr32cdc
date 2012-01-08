@@ -1,0 +1,8 @@
+  AVR32CD example compiled for reprap32 board.
+  This is a test of USB support on the repra32 hardware
+  very simple derivation from the avr32 cdc example... but with
+  hardware settings for the reprap32 board
+
+  have fun 
+  dave
+
